@@ -1,0 +1,71 @@
+
+ body {
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(15, 3, 182), rgb(0, 0, 0));
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+} 
+
+nav {
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 90px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.estatisticasMJ1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.imagenMJ1 {
+    width: auto;
+    height: auto;
+    text-align: center;
+    
+}
+
+
+.textoMJ1 {
+    font-size: 25px;
+}
+    
+
+nav a:hover {
+    color: rgb(230, 10, 10);
+}
+
+.imagenLJ2 {
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.textoLJ2 {
+    font-size: 25px;
+}
+
+
