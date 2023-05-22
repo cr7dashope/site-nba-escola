@@ -36,18 +36,9 @@ h2 {
     font-size: 50px;
 }
 
-.estatisticasMJ1 {
-    font-size: 30px;
-    text-align: center;
+.estatisticasefotoMJ1 {
+    display: flex;
 }
-
-.imagenMJ1 {
-    width: auto;
-    height: auto;
-    text-align: center;
-    
-}
-
 
 .textoMJ1 {
     font-size: 25px;
